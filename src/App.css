@@ -1,0 +1,384 @@
+ body, html {
+  height: 100%;
+   margin: 0px;
+}
+
+#root {
+    width: 100%;
+    height: 100%;
+}
+
+.dark {
+    background-color: #36393F;
+    width: 100%;
+    height: 100%;
+    
+   
+}
+
+.light {
+
+        background-color:white;
+        width: 100%;
+        height: 100%;
+        
+}
+
+.mainlogin {
+    overflow: hidden !important;
+}
+
+.dark .appBar {
+    background-color: #36393F !important;
+    overflow: hidden !important;
+    
+}
+
+.light .appBar {
+    background-color: white !important;
+    overflow: hidden !important;
+}
+
+
+
+body  {
+   
+}
+
+.dark .misty {
+    color: white;
+}
+
+.light .misty {
+    color: orangered;
+}
+
+.light .mistyy {
+    text-transform: capitalize !important;
+    color: orangered !important;
+    font-size: 14px !important;
+}
+
+.light .mist {
+    color: black !important;
+
+}
+
+.dark .roott {
+    background-color: #282A2E;
+}
+
+    .dark .mist {
+        color: white !important
+    }
+
+
+.dark .mistyy {
+    text-transform: capitalize !important;
+    color:  orangered !important;
+    font-size: 16px !important;
+    font-weight: 700;
+}
+
+.light .iconMenu {
+    color: orangered !important;
+    margin: 0px -20px 0px 0px
+}
+
+.dark .iconMenu {
+    color: orangered !important;
+    margin: 0px -20px 0px 0px
+}
+
+
+.light .iconMenuu {
+    color: orangered !important;
+    margin: 0px -20px 0px 0px
+}
+
+.dark .iconMenuu {
+    color: white !important;
+    margin: 0px -20px 0px 0px
+}
+
+
+.dark .loginn {
+    color: white ;
+}
+
+.light .loginn {
+    color: gray;
+}
+
+.google {
+    height: 40px;
+    margin-left: 10px;
+    
+}
+
+.light .g-button {
+    text-transform: capitalize !important;
+    padding: 20px 40px 20px 40px !important;
+    color: grey !important;
+    font-family: monospace !important;
+    letter-spacing: 1px;
+    font-size: 19px !important;
+    font-weight: 700 !important;
+    box-shadow: 20 !important;
+    margin-bottom: 20px !important;
+    border-radius: 20px !important;
+}
+
+.dark .g-button {
+    text-transform: capitalize !important;
+    padding: 20px 40px 20px 40px !important;
+    color: white !important;
+    font-family: monospace !important;
+    letter-spacing: 1px;
+    font-size: 19px !important;
+    font-weight: 700 !important;
+    box-shadow: 20 !important;
+    margin-bottom: 20px !important;
+    background-color: #282A2E !important;
+}
+
+.g-button:hover {
+    background-color: #EDEDED !important;
+}
+
+.dark .g-button:hover {
+    background-color: #282A2E !important;
+}
+
+
+
+
+
+.dark .obvious {
+    color: white
+}
+
+.light .obvious {
+    color: gray
+}
+
+.formMessage {
+ position: fixed !important;
+ left: 0px;
+ bottom: 0px;
+ 
+ width: 100%;
+ margin: 0px 100px 0px 0px !important;
+ 
+}
+
+.form {
+    
+    
+}
+
+.chatScreen {
+   
+  
+}
+
+.messager {
+  
+}
+
+ .message {
+    border-radius: 20px !important;
+
+    
+}
+
+.MuiFilledInput-root {
+    border-radius: 20px !important;
+}
+
+.light .MuiFilledInput-input {
+    padding: 20px 55px 17px 12px !important;
+    
+}
+
+.dark .MuiFilledInput-input {
+    padding: 20px 55px 17px 12px !important;
+    color: white !important;
+}
+
+.messageButton {
+   
+}
+
+.imgChat {
+    width: 55px;
+    margin: 0px 10px  0px 0px;
+    border-radius: 70px
+}
+
+
+
+.time {
+   position: relative !important;
+   top: -1px;
+   left: 10px;
+    color: darkgray;
+    font-size: 12px;
+}
+
+
+
+
+
+.dark .messageb:hover {
+    background-color: #32353C;
+}
+
+.dark .currentuser:hover {
+    background-color:  #282A2E;
+}
+
+.light .messageT {
+    color: black;
+    text-align: left;
+    margin: 13px 5px 10px 0px;
+    font-family: monospace;
+    font-size: 16px; letter-spacing: 0.1px;
+}
+
+.dark .messageT {
+    color: white;
+    text-align: left;
+    margin: 13px 5px 10px 0px;
+    font-family: monospace;
+    font-size: 16px; letter-spacing: 0.1px;
+}
+
+.image-box {
+    background-color: red;
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+    text-align: center;
+    justify-content: center;
+}
+
+.form-home {
+   
+}
+
+.MuiOutlinedInput-root {
+    width: 315px !important;
+   
+    padding: 7px 10px 7px !important;
+    
+    
+}
+
+.dark .MuiOutlinedInput-input {
+   color: white !important;
+    padding-left: 10px !important;
+    line-height: 75px !important;
+}
+
+.light .MuiOutlinedInput-input {
+   
+     padding-left: 10px !important;
+     line-height: 75px !important;
+ }
+
+
+.w-button {
+    width: 315px;
+    padding: 10px 0px !important;
+    background-color: orangered !important;
+    font-family: monospace !important;
+    font-size: 18px !important;
+    text-transform: capitalize !important;
+    opacity: 0.8 !important;
+    transition: 3sec all ease-in-out !important;
+}
+
+.w-button {
+}
+
+.MuiOutlinedInput-notchedOutline {
+    border: 2px solid gray !important;
+    background-color: transparent !important;
+}
+
+.light label {
+    color: orangered !important;
+}
+
+.dark label {
+    color: white !important;
+}
+
+.dark .iconlogin {
+    color: white;
+}
+
+.light .iconlogin {
+    color: gray;
+}
+
+.messageb {
+    word-break: break-all;
+    
+    padding-left: 0px;
+    padding-right: 80px !important;
+    
+ }
+
+.dark .currentuser {
+    justify-content: end !important;
+    /* background-color: #F6F3E3 !important; */
+    padding-right: 20px !important;
+    padding-left: 70px !important;
+   
+    
+    
+}
+.light .currentuser {
+    justify-content: end !important;
+    /* background-color: #F6F3E3 !important; */
+    padding-right: 20px !important;
+    padding-left: 70px !important;
+    background-color: #F9FAFC !important;
+}
+
+.dark .usee, .dark .userr {
+    color: white !important;
+}
+
+.light .usee, .light .userr {
+    color: black !important;
+}
+
+
+
+
+
+.imgChatt {
+    width: 40px;
+    margin: -10px 0px  0px -40px;
+    border-radius: 70px
+}
+
+.altt {
+    
+    width: 55px;
+    height: 55px;
+    border-radius: 70px;
+    text-align: center;
+
+}
+
+fieldset {
+    
+}
+
+.resp {
+    margin: -18px 0px  0px -40px;
+}
