@@ -2,9 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Preview
+
+![mistychats preview1](https://user-images.githubusercontent.com/24590667/235125987-c64c7aa5-f781-40c5-8d90-81b6537df32f.PNG)
+
+--------------------------------
+
+![mistychats preview2](https://user-images.githubusercontent.com/24590667/235125993-2cbe771e-e4ed-49cf-8851-815e7667624f.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
